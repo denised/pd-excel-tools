@@ -1,0 +1,17 @@
+.history
+.pytest_cache
+.DS_Store
+.coverage
+.ipynb_checkpoints
+.tox
+.vscode
+.idea
+.venv
+.env
+__pycache__
+*.pyc
+*.pyo
+*.icloud
+*.out
+Untitled*.ipynb
+~$*
